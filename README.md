@@ -1,6 +1,6 @@
 # automate_discord
 
-Discord user automation tool.
+Discord user automation tool.<br>
 GUI in Qt5 and scripts in pyautogui.
 
 Requirements
