@@ -1,5 +1,12 @@
 # automate_discord
+
 Discord self-botting deserves a GUI
+
+Requirements:
+- Qt5
+- Python3
+- pyautogui
+
 
 To run on Linux:
 ```
